@@ -1,5 +1,5 @@
 ---
-title: My first blog
+title: first blog
 date: 2020-03-22
 published: true
 ---
