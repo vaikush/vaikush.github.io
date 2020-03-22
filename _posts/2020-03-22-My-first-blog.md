@@ -1,7 +1,7 @@
 ---
 title: My first blog
 date: 2020-03-22
-layout: post
+published: true
 ---
 
 # This is my first blog.
