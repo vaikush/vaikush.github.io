@@ -1,9 +1,5 @@
 # Happy World Water Day 2020
 
----
-layout: default
-title: Blog
----
 <h1>Latest Posts</h1>
 
 <ul>
