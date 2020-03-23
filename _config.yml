@@ -8,9 +8,9 @@ description: #> # this means to ignore newlines until "baseurl:"
   As a researcher and change-maker I have dedicated years working in the field of urban sustainability, environmental management and complex systems thinking. 
   Lately, as a PhD candidate, I am developing frameworks, models, and recommendations for improving water security and resilience in Indian cities.
 
-social links:
-# twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  vaikush # DO NOT include the @ character, or else the build will fail!
+#social links:
+#twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+#github_username:  vaikush # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: jekyll-theme-minimal
