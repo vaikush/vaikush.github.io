@@ -16,7 +16,7 @@ All out-of-premises water sources result in crowds and will result in spread of 
 
 Moreover, social distancing will disproportionately impact the urban poor’s access to work and regular income. Urban poor spend a large portion of their daily wages on buying basic food, water and medicines. Each day that they are asked not to work, their income dwindles, and their health and hygiene fall in jeopardy, making them susceptible to COVID-19. In order to survive, urban poor will go out seeking work, break the social distancing norms and put the larger community at risk. Government, civil society, private sector, NGOs, households, and individuals can support them in two ways: (1) provide monetary support in terms of paid leave, unemployment compensation, subsidies, etc. (2) provide a weekly supply of free food, drinking water and medical supplies.
 
-![Figure 1. Water - COVID-19 – Social Distancing Nexus: Leverage points for intervention](https://raw.githubusercontent.com/vaikush/vaikush.github.io/images/causal_loop_diagram.jpeg)
+![Figure 1. Water - COVID-19 – Social Distancing Nexus: Leverage points for intervention](/images/causal_loop_diagram.jpeg)
 
 COVID-19 and social distancing are bound to change the way societies and countries function. It is very important to remember that as an interconnected society and city we are only as strong as our weakest link. Evidence from across the world validates that no amount of money and convenience will stop rich and powerful from getting COVID-19; however, ensuring adequate water, food, and income to support good hygiene and health of the poorest of poor will fortify our cities in the fight against this novel virus.
 
