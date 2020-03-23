@@ -7,7 +7,7 @@ tags: [worldwaterday, covid-19, coronavirus, socialdistancing, physicaldistancin
 ---
 Today, on the World Water Day 2020, I cannot stop thinking about how millions of Indians living in poverty and informal settlements in cities will protect themselves from COVID-19.
 
-[*Author: Vaishali Kushwaha*]
+*- Vaishali Kushwaha*
 
 ---
 
