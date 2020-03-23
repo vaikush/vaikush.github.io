@@ -3,6 +3,7 @@ date: 2020-03-22
 title: Water and COVID-19 Nexus
 layout: post
 subtitle: Safeguarding Urban Poor in India
+author: Vaishali Kushwaha
 tags: [watersday2020, covid-19, coronavirus, socialdistancing]
 ---
 
