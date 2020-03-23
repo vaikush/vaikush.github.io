@@ -1,2 +1,1 @@
-# My resume and profile
-Information about me that I wish to share with my readers.
+I, Vaishali Kushwaha, am a researcher and change-maker. I have dedicated years working in the field of urban sustainability, environmental management and complex systems thinking. Lately, as a PhD candidate, I am developing frameworks, models, and recommendations for improving water security and resilience in Indian cities. 
