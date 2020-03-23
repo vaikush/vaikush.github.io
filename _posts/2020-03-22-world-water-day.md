@@ -4,9 +4,10 @@ title: Water and COVID-19 Nexus
 layout: post
 subtitle: Safeguarding Urban Poor in India
 tags: [worldwaterday, covid-19, coronavirus, socialdistancing, physicaldistancing]
-Author: Vaishali Kushwaha
 ---
-Today, on the World Water Day 2020, I cannot stop thinking about how millions of Indians living in poverty and informal settlements in cities will protect themselves from COVID-19. 
+Today, on the World Water Day 2020, I cannot stop thinking about how millions of Indians living in poverty and informal settlements in cities will protect themselves from COVID-19.
+
+[*Author: Vaishali Kushwaha*]
 
 ---
 
