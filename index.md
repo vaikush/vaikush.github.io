@@ -1,4 +1,4 @@
-{{ site.about }}
+{% site.about %}
 
 <ul>
   {% for post in site.posts %}
