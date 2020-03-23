@@ -3,10 +3,9 @@ date: 2020-03-22
 title: Water and COVID-19 Nexus
 layout: post
 subtitle: Safeguarding Urban Poor in India
-Author: Vaishali Kushwaha
 tags: [worldwaterday, covid-19, coronavirus, socialdistancing, physicaldistancing]
+Author: Vaishali Kushwaha
 ---
-
 Today, on the World Water Day 2020, I cannot stop thinking about how millions of Indians living in poverty and informal settlements in cities will protect themselves from COVID-19. 
 
 ---
@@ -37,6 +36,5 @@ Being 10 days ahead in social distancing, a reckoning of social inequalities and
 
 P.S. – India will have to pump up production of hand sanitizer, not only for medical facilities but also as a back-up for people with limited access to water. Nevertheless, [washing hands](https://www.who.int/gpsc/5may/Hand_Hygiene_Why_How_and_When_Brochure.pdf) with soap and water is still considered superior to using hand sanitizers.
 
-Update March 23, 2020: 
-Experts now agree that **[physical distancing](https://www.ctvnews.ca/health/coronavirus/why-health-officials-say-physical-distancing-is-a-better-term-than-social-distancing-1.4863344) is a better term than "social distancing"**. Remianing physically distant is absolutely essential, but it does not mean we should socially disconnect ourselves from family, friends or community.
+March 23, 2020 Update: Experts now agree that **[physical distancing](https://www.ctvnews.ca/health/coronavirus/why-health-officials-say-physical-distancing-is-a-better-term-than-social-distancing-1.4863344) is a better term than "social distancing"**. Remianing physically distant is absolutely essential, but it does not mean we should socially disconnect ourselves from family, friends or community.
 
