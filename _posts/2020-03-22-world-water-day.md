@@ -15,12 +15,12 @@ Today, on the World Water Day 2020, I cannot stop thinking about how millions of
 
 <p float="left">
   <img src="/images/slum01.jpeg" width="250" />
-  <figcaption>Photo:Street side water storage in urban slums. </figcaption>
+  <figcaption>Photo 1:Water storage in urban slums. </figcaption>
  </p>
  
  <p float="right">
   <img src="/images/slum02.jpeg" width="250" /> 
-  <figcaption>Photo:Footpath dwellers and their water storage.</figcaption>
+  <figcaption>Photo 2:Street-side dwellers and their water storage.</figcaption>
 </p>
 
 A simple [causal loop diagram](https://en.wikipedia.org/wiki/Causal_loop_diagram) highlights the nexus of water, social distancing, and COVID-19 in context of Indian cities (Figure 1). It highlights the vulnerability of marginalized communities that lack a safe/adequate water supply. As the cases of COVID-19 in India will rise, the guidelines for social distancing will become tighter and lock downs will become longer. Social distancing will impact ways urban poor collect water. Urban poor without access to piped water within their premises often use community taps. These taps usually get water only for a few hours in morning and evening, resulting in long queues and crowds of people eager to collect water. Similarly, in locations where water is supplied through municipal water tankers residents rush in crowds to get few buckets of water. 
