@@ -1,6 +1,7 @@
 ---
 title: "World Water Day 2020"
 date: 2020-03-22
+author: Vaishali Kushwaha
 ---
 
 # Water and COVID-19 Nexus: Safeguarding Urban Poor in India
