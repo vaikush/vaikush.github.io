@@ -1,9 +1,12 @@
 ---
-title: "Water and COVID-19 Nexus: Safeguarding Urban Poor in India"
 date: 2020-03-22
-author: Vaishali Kushwaha
+title: Water and COVID-19 Nexus
+layout: post
+subtitle: Safeguarding Urban Poor in India
+tags: [watersday2020, covid-19, coronavirus, socialdistancing]
 ---
 
+Today, on the World Water Day 2020, I cannot stop thinking about how millions of Indians living in poverty and informal settlements in cities will protect themselves from COVID-19. 
 
 Today is Day 10 of [social distancing](https://en.wikipedia.org/wiki/Social_distancing) for me. I am currently living in a quaint town of Brookline in Massachusetts, USA. My residence is adjoining Boston, and my office is in Boston - a hub of COVID-19 outbreak - hence the threat is real. However, I have comfortably transitioned to a life of work/study/stay-at-home. I have been successfully following the [WHO guidelines](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) of washing my hands frequently and maintaining social distance. This is because I have access to 24/7 clean water, nutritious food, clean house, and regular income. 
 
@@ -11,21 +14,13 @@ Today, on the World Water Day 2020, I cannot stop thinking about how millions of
 
 ‘Wash your hands frequently’ is the first and most basic protective measure against COVID-19. Washing hands needs water, a dear commodity for the urban poor in India. As per the last [Census](http://censusindia.gov.in/DigitalLibrary/TablesSeries2001.aspx)(in 2011), only about 62% of urban households in India had access to tap water from a treated source, and nearly 38% of urban households did not have access to a municipal water supply. Moreover, of these 62% of households, only 49% had access to piped water supply within their premises. Therefore, 13% of the population that had access to municipal/treated water sources was collecting it from sources outside their houses. Lack of clean and adequate water for drinking, household use, personal hygiene, and sanitation has been a consistent concern in rapidly growing Indian cities. This shortcoming will further put the urban poor to a higher risk of getting and spreading COVID-19 virus.
 
+![slum01](../img/slum01.jpeg)| ![slum02](../img/slum02.jpeg)
+Photo 1:Water storage in urban slums. | Photo 2:Street-side dwellers and their water storage.
 
-
-<p float="left">
-  <img src="/images/slum01.jpeg" width="250" />
-  <figcaption>Photo 1:Water storage in urban slums. </figcaption>
- </p>
- 
- <p float="right">
-  <img src="/images/slum02.jpeg" width="250" /> 
-  <figcaption>Photo 2:Street-side dwellers and their water storage.</figcaption>
-</p>
 
 A simple [causal loop diagram](https://en.wikipedia.org/wiki/Causal_loop_diagram) highlights the nexus of water, social distancing, and COVID-19 in context of Indian cities (Figure 1). It highlights the vulnerability of marginalized communities that lack a safe/adequate water supply. As the cases of COVID-19 in India will rise, the guidelines for social distancing will become tighter and lock downs will become longer. Social distancing will impact ways urban poor collect water. Urban poor without access to piped water within their premises often use community taps. These taps usually get water only for a few hours in morning and evening, resulting in long queues and crowds of people eager to collect water. Similarly, in locations where water is supplied through municipal water tankers residents rush in crowds to get few buckets of water. 
 
-![Figure 1. Water - COVID-19 – Social Distancing Nexus: Leverage points for intervention](/images/causal_loop_diagram.jpeg)
+![Figure 1. Water - COVID-19 – Social Distancing Nexus: Leverage points for intervention](../img/causal_loop_diagram.jpeg)
 
 **Figure 1. Water - COVID-19 – Social Distancing Nexus: Leverage points for intervention**
 
