@@ -3,10 +3,13 @@ date: 2020-03-22
 title: Water and COVID-19 Nexus
 layout: post
 subtitle: Safeguarding Urban Poor in India
-tags: [watersday2020, covid-19, coronavirus, socialdistancing]
+Author: Vaishali Kushwaha
+tags: [worldwaterday, covid-19, coronavirus, socialdistancing, physicaldistancing]
 ---
 
 Today, on the World Water Day 2020, I cannot stop thinking about how millions of Indians living in poverty and informal settlements in cities will protect themselves from COVID-19. 
+
+---
 
 Today is Day 10 of [social distancing](https://en.wikipedia.org/wiki/Social_distancing) for me. I am currently living in a quaint town of Brookline in Massachusetts, USA. My residence is adjoining Boston, and my office is in Boston - a hub of COVID-19 outbreak - hence the threat is real. However, I have comfortably transitioned to a life of work/study/stay-at-home. I have been successfully following the [WHO guidelines](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) of washing my hands frequently and maintaining social distance. This is because I have access to 24/7 clean water, nutritious food, clean house, and regular income. 
 
@@ -30,8 +33,10 @@ Moreover, social distancing will disproportionately impact the urban poor’s ac
 
 COVID-19 and social distancing are bound to change the way societies and countries function. **It is very important to remember that as an interconnected society and city we are only as strong as our weakest link.** Evidence from across the world validates that no amount of money and convenience will stop rich and powerful from getting COVID-19; however, ensuring adequate water, food, and income to support good hygiene and health of the poorest of poor will fortify our cities in the fight against this novel virus.
 
-Being 10 days ahead in social distancing, a reckoning of social inequalities and tipping of healthcare systems, I can assure you that COVID-19 is going to demand much more solidarity from Indians than just banging *thalis*. The government alone cannot fight this war. So please look out for the poor and vulnerable you employ, or you might know. Promote social distancing, not social inequality - share your food, water, money and blessings!
+Being 10 days ahead in social distancing, a reckoning of social inequalities and tipping of healthcare systems, I can assure you that COVID-19 is going to demand much more solidarity from Indians than just banging *thalis*. The government alone cannot fight this war. So please look out for the poor and vulnerable you employ, or you might know. Promote social distancing, not social inequality - share your food, water, money and blessings! 
 
 P.S. – India will have to pump up production of hand sanitizer, not only for medical facilities but also as a back-up for people with limited access to water. Nevertheless, [washing hands](https://www.who.int/gpsc/5may/Hand_Hygiene_Why_How_and_When_Brochure.pdf) with soap and water is still considered superior to using hand sanitizers.
 
+Update March 23, 2020: 
+Experts now agree that **[physical distancing](https://www.ctvnews.ca/health/coronavirus/why-health-officials-say-physical-distancing-is-a-better-term-than-social-distancing-1.4863344) is a better term than "social distancing"**. Remianing physically distant is absolutely essential, but it does not mean we should socially disconnect ourselves from family, friends or community.
 
