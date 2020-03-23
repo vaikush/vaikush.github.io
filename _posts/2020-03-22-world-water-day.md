@@ -1,10 +1,10 @@
 ---
-title: "World Water Day 2020"
+title: "Water and COVID-19 Nexus: Safeguarding Urban Poor in India"
 date: 2020-03-22
 author: Vaishali Kushwaha
 ---
 
-# Water and COVID-19 Nexus: Safeguarding Urban Poor in India
+
 Today is Day 10 of [social distancing](https://en.wikipedia.org/wiki/Social_distancing) for me. I am currently living in a quaint town of Brookline in Massachusetts, USA. My residence is adjoining Boston, and my office is in Boston - a hub of COVID-19 outbreak - hence the threat is real. However, I have comfortably transitioned to a life of work/study/stay-at-home. I have been successfully following the [WHO guidelines](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) of washing my hands frequently and maintaining social distance. This is because I have access to 24/7 clean water, nutritious food, clean house, and regular income. 
 
 Today, on the World Water Day 2020, I cannot stop thinking about how millions of Indians living in poverty and informal settlements in cities will protect themselves from COVID-19. Today, India also experimented with [*Janta Curfew*](https://www.livemint.com/news/india/janata-curfew-india-embraces-social-distancing-to-fight-novel-coronavirus-11584855677816.html) and my hometown, Ahmedabad, along with three other major cities of Gujarat, went on partial [lockdown till March 25](https://www.livemint.com/news/india/coronavirus-ahmedabad-surat-rajkot-vadodara-under-lockdown-until-25-march-11584845093709.html). Though the verdict on the nation-wide one-day social distancing effort has not yet been out, WhatsApp messages are already trolling people who gathered in groups to clap and bang *thalis*. People might have forgotten the essence of social distancing in their expression of gratitude and solidarity for essential service providers. I wonder what will happen when this *Junta Curfew* will extend to weeks and months and people will go out to seek essential services for themselves – like water, food, medicines, and daily wages!
@@ -15,7 +15,12 @@ Today, on the World Water Day 2020, I cannot stop thinking about how millions of
 
 <p float="left">
   <img src="/images/slum01.jpeg" width="250" />
+  <figcaption>Photo:Street side water storage in urban slums. </figcaption>
+ </p>
+ 
+ <p float="right">
   <img src="/images/slum02.jpeg" width="250" /> 
+  <figcaption>Photo:Footpath dwellers and their water storage.</figcaption>
 </p>
 
 A simple [causal loop diagram](https://en.wikipedia.org/wiki/Causal_loop_diagram) highlights the nexus of water, social distancing, and COVID-19 in context of Indian cities (Figure 1). It highlights the vulnerability of marginalized communities that lack a safe/adequate water supply. As the cases of COVID-19 in India will rise, the guidelines for social distancing will become tighter and lock downs will become longer. Social distancing will impact ways urban poor collect water. Urban poor without access to piped water within their premises often use community taps. These taps usually get water only for a few hours in morning and evening, resulting in long queues and crowds of people eager to collect water. Similarly, in locations where water is supplied through municipal water tankers residents rush in crowds to get few buckets of water. 
