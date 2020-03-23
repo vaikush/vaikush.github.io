@@ -1,6 +1,7 @@
 title: COMPLEXCITY 
 description: #> # this means to ignore newlines until "baseurl:"
-  Author -- Vaishali Kushwaha |
+  Author -- Vaishali Kushwaha 
+  |
   As a researcher and change-maker I have dedicated years working in the field of urban sustainability, environmental management and complex systems thinking. 
   Lately, as a PhD candidate, I am developing frameworks, models, and recommendations for improving water security and resilience in Indian cities.
 
@@ -24,13 +25,11 @@ theme: jekyll-theme-minimal
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+#avatar: "/img/avatar-icon.png"
 
 
 header_pages:
