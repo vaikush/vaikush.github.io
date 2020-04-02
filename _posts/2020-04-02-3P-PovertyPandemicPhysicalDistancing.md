@@ -80,7 +80,6 @@ India’s per capita medical resources (and monetary capacity) are nowhere close
 We should rapidly learn and customize strategies that have been successful in comparable cities. Government, with support of the private sector and civil society, needs to provide free COVID-19 testing, personal protection supplies (masks, hand sanitizers, hand soaps, water in portable containers, cleaning products etc.) and access to isolation units to the vulnerable urban poor.
 
 
-
 [^1]: “Slums are those residential areas where dwellings are in any respect unfit for human habitation by reasons of dilapidation, overcrowding, faulty arrangements and designs of such buildings, narrowness or faulty arrangement of streets, lack of ventilation, light, sanitation facilities or any combination of these factors which are detrimental to safety, health and morals.” – Ministry of Housing and Urban Affairs, [Handbook of Urban Statistics 2019](http://mohua.gov.in/pdf/5c80e2225a124Handbook%20of%20Urban%20Statistics%202019.pdf)
 
 [^2]: [Density estimates for Mumbai’s](https://www.hindustantimes.com/mumbai-news/does-dharavi-in-mumbai-have-a-million-residents/story-rAsCWDqsU86dpW9NhoMcJP.html) G North municipal ward, that houses the world-famous Dharavi slum, is around 66,000 persons per sq. km. Whereas, the most crowded municipal ward in Mumbai is Ward C with whooping density of around 92,000 per sq. km.
