@@ -85,9 +85,11 @@ We should rapidly learn and customize strategies that have been successful in co
 
 [^2]: [Density estimates for Mumbai’s](https://www.hindustantimes.com/mumbai-news/does-dharavi-in-mumbai-have-a-million-residents/story-rAsCWDqsU86dpW9NhoMcJP.html) G North municipal ward, that houses the world-famous Dharavi slum, is around 66,000 persons per sq. km. Whereas, the most crowded municipal ward in Mumbai is Ward C with whooping density of around 92,000 per sq. km.
 
+
+
 ### Best Practices: Special Mention (Table 1)
 
-[1][Seoul: Use of Technology and Startups*](https://www.techinasia.com/korea-response-covid19-praised-startups-helped)
+[1] [Seoul: Use of Technology and Startups*](https://www.techinasia.com/korea-response-covid19-praised-startups-helped)
 
 [2] [Singapore: "Stay Home Notice" -- Agressive but targeted quarantine practices**](https://www.statnews.com/2020/03/23/singapore-teach-united-states-about-covid-19-response)
 
