@@ -9,7 +9,7 @@ tags: [ covid-19, corona-virus, physical-distancing, slums, mega-cities]
 
 WHO recommends to ‘maintain at least 1 meter (3 feet) distance between yourself 
 and anyone who is coughing or sneezing.’ Governments have translated this into stay-at-home 
-and avoid crowd policies. But what should one do when home itself is crowded place? 
+and avoid crowd policies. But what should one do when home itself is a crowded place? 
 
 *- Vaishali Kushwaha*
 
