@@ -3,6 +3,7 @@ date: 2020-03-22
 title: Water and COVID-19 Nexus
 layout: post
 subtitle: Safeguarding Urban Poor in India
+comments: true
 tags: [worldwaterday, covid-19, coronavirus, socialdistancing, physicaldistancing, indiancities]
 ---
 Today, on the World Water Day 2020, I cannot stop thinking about how millions of Indians living in poverty and informal 
