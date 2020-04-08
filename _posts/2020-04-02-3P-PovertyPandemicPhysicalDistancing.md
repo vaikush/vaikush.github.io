@@ -3,6 +3,7 @@ date: 2020-04-01
 title: "3P: Poverty, Pandemic, and Physical Distancing"
 subtitle: Need of Isolation Units for Urban Poor
 layout: post
+comments: true
 tags: [ covid-19, corona-virus, physical-distancing, slums, mega-cities]
 
 ---
