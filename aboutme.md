@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Researcher, change-maker & PhD Candidate in Public Policy.
+subtitle: Researcher, Changemaker & PhD Candidate in Public Policy.
 ---
 
 My name is Vaishali Kushwaha.
