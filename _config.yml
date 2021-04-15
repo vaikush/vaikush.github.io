@@ -103,7 +103,8 @@ url-pretty: "vaikush.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
-google_analytics: UA-163122745-1
+#google_analytics: UA-163122745-1
+google_analytics: G-5ELPWCTJHX
 
 # Google Tag Manager ID
 #gtm: ""
