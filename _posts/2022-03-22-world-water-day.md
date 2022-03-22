@@ -20,4 +20,4 @@ Join me in making our present and future more water secure!
 
 Go To main Story [Paani Ka Maanchitra - Watermap](https://storymaps.arcgis.com/stories/c1e5a2f367c84441a4b932c88f3aaff0?header) of Ahmedabad, India
 
-Looking forwared to your comments and feedback.
+Looking forward to your comments and feedback.
